@@ -3,8 +3,6 @@ Demonstration for AAAI-18 paper Saito, S, Mandic, D.P., and Suzuki, H. 2018 Hype
 
 This program demonstrate unspervised clustering in the paper, Saito, S, Mandic, D.P., and Suzuki, H. 2018 Hypergraph p-Laplacian: A Differential Geometry View. In Proc. AAAI to appear.
 
-See 
-
 Here we compare with exsitent Laplacian, proposed by 
 
 i) Zhou, D., Huang, J., and Scho ̈lkopf, B. 2006. Learning with hypergraphs: Clustering, classification, and embedding. In Proc. NIPS, 1601–1608.
