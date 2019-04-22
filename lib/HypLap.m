@@ -31,6 +31,6 @@ elseif strcmp(mode,'Saito')
 else
     error('You have to choose mode from either Zhou, Rod, or Saito')
 end
-L = Dn^(-1/2)*AA*Dn^(-1/2);
+L = Dn^(-1/2)*(Dn - AA)*Dn^(-1/2);
 
 end
